@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BLA VLA VLA 
+=======
+to jest zmiana w newfeature a nie jakieœ bla bla bla
+>>>>>>> newFeature
